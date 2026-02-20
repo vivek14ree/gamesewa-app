@@ -1,6 +1,6 @@
 {
   "version": "10.0.1",
-  "apk_url": "https://github.com/vivek14ree/gamesewa-app/releases/download/v1.0.1/app-release.apk",
+  "apk_url": "https://github.com/vivek14ree/gamesewa-app/releases/download/v1.0.0/gameSewa.apk",
   "force_update": false,
   "changelog": "• Bug fixes\n• Performance improvements\n• New features added"
 }
